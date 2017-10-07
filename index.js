@@ -11,5 +11,3 @@ app.get("/",function(req,res){
 app.listen(process.env.PORT || 3000, function(){
   console.log('listening on');
 });
-// app.listen(8080);
-// console.log("i ran");

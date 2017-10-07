@@ -1,3 +1,3 @@
 # sample3D
-sample of threejs and webgl 
+Rendering 3D objects in web browser using threeJS and webgl 
 a simple web app for displaying 3d models on web browser
